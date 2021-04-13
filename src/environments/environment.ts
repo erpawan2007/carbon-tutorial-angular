@@ -4,7 +4,7 @@
 
 export const environment = {
   production: false,
-  githubPersonalAccessToken: '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'
+  githubPersonalAccessToken: ''
 };
 
 /*
